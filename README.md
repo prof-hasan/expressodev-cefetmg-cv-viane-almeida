@@ -117,5 +117,5 @@ Boa sorte e capriche no design do seu currículo! 🚀
 A página criada deverá ser visualizada automaticamente via [GithubPages](https://pages.github.com/). 
 
 Para isso, você deverá ir em configurações (settings) do repositório, acesse o item `Páginas` (Pages) e, logo após, selecione a branch principal: 
-<img src="githubpages.jpg" height="250">
+<img src="githubpages.png" height="250">
 Logo após, e depois de alguns minutos de enviar seu código, você poderá digitar a seguinte URL: `<usuario>.github.io/<nome-do-repositorio>` e conseguirá acessá-la.
