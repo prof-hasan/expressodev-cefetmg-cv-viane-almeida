@@ -22,7 +22,7 @@ Tanto alunos dos módulos básicos e avançados poderão participar! Serão sele
 2. **Etapa final**: as 8 páginas finais realizarão sua última disputa para definir a colocação final na competição.
 ---
 ## Dados do competidor
-Durante a divulgação da sua página, caso autorize a divulgação das suas redes sociais junto com o site, edite este README.MD e informe os seguintes dados:
+Iremos divulgar sua página nas mídias sociais, caso autorize a divulgação das suas redes sociais junto com o site, edite este README.MD e informe os seguintes dados:
 
 - Conta do Instagram:
 - Conta do LinkedIn:
