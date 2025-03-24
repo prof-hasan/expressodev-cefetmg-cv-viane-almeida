@@ -2,7 +2,7 @@
 
 Crie uma página Web para apresentar um currículo vitae, seja seu ou de um personagem fictício! Você pode criar o seu próprio currículo, o de outra pessoa ou até de um personagem inventado — use a criatividade!
 
-
+**Atenção**: Como o site estará publico, não recomendamos informar endereço ou alguma informação sensível.
 
 ## Competição - Como irá funcionar?
 
@@ -26,7 +26,7 @@ Iremos divulgar sua página nas mídias sociais, caso autorize a divulgação da
 
 - Conta do Instagram:
 - Conta do LinkedIn:
-
+Esses dados não são obrigatórios. 
 ---
 ## Avaliação técnica - critérios
 
