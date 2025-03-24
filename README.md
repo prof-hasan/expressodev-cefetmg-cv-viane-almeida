@@ -28,6 +28,7 @@ Iremos divulgar sua página nas mídias sociais, caso autorize a divulgação da
 - Conta do LinkedIn:
 
 Esses dados não são obrigatórios. 
+
 ---
 ## Avaliação técnica - critérios
 
