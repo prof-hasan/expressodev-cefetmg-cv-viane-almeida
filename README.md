@@ -110,6 +110,7 @@ Para garantir um ambiente respeitoso e justo para todos os participantes, qualqu
 - 🥈 **3º e 4º lugares** → 1 ano  
 - 🥉 **5º a 8º lugares** → 3 meses  
 
+Atenção que apenas as páginas finalistas entrarão para o Hall da fama. Caso sejam classificadas 6 páginas, apenas essas páginas estarão no Hall da Fama.
 
 ✨ **Prêmio especial para o 1º lugar:**  
 - **4 horas de mentoria individualizada** realizada pelo prof. Daniel Hasan em um dos seguintes temas:  
