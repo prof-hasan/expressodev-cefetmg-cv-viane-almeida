@@ -18,7 +18,7 @@ A nota final de cada estudante será calculada combinando **Análise Técnica** 
 
 Tanto alunos dos módulos básicos e avançados poderão participar! Serão selecionados as 8 melhores páginas e a competição terá duas etapas: 
 
-1. **Etapa classificatória**: iremos classificar até 8 páginas sendo até 3 páginas de alunos do módulo básico. Os estudantes serão divididos em chaves de maneira aleatória e serão selecionados os melhores de cada uma. Em cada chave, pelo menos o último colocado será desclasificado. A quantidade de chaves e alunos classificados serão definidos após a submissão das tarefas, considerando a quantidade de concorrentes.
+1. **Etapa classificatória**: iremos classificar até 8 páginas sendo até 3 páginas de alunos do módulo básico. Os estudantes serão divididos em chaves de maneira aleatória e serão selecionados os melhores de cada uma. Em cada chave, pelo menos o último colocado será desclassificado. A quantidade de chaves e alunos classificados serão definidos após a submissão das tarefas, considerando a quantidade de concorrentes.
 2. **Etapa final**: as páginas classificadas realizarão sua última disputa para definir a colocação final na competição.
 
 
