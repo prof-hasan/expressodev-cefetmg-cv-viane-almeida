@@ -18,8 +18,10 @@ A nota final de cada estudante será calculada combinando **Análise Técnica** 
 
 Tanto alunos dos módulos básicos e avançados poderão participar! Serão selecionados as 8 melhores páginas e a competição terá duas etapas: 
 
-1. **Etapa classificatória**: iremos classificar 8 páginas sendo até 3 páginas de alunos do módulo básico. Os estudantes serão divididos em chaves de maneira aleatória e serão selecionados os melhores de cada uma. 
-2. **Etapa final**: as 8 páginas finais realizarão sua última disputa para definir a colocação final na competição.
+1. **Etapa classificatória**: iremos classificar até 8 páginas sendo até 3 páginas de alunos do módulo básico. Os estudantes serão divididos em chaves de maneira aleatória e serão selecionados os melhores de cada uma. Em cada chave, pelo menos o último colocado será desclasificado. A quantidade de chaves e alunos classificados serão definidos após a submissão das tarefas, considerando a quantidade de concorrentes.
+2. **Etapa final**: as páginas classificadas realizarão sua última disputa para definir a colocação final na competição.
+
+
 ---
 ## Dados do competidor
 Iremos divulgar sua página nas mídias sociais, caso autorize a divulgação das suas redes sociais junto com o site, edite este README.MD e informe os seguintes dados:
@@ -91,6 +93,8 @@ Para garantir um ambiente respeitoso e justo para todos os participantes, qualqu
 
 3. **Violação de Direitos Autorais**: Uso de textos, imagens, vídeos, músicas ou qualquer outro conteúdo protegido sem a devida autorização ou crédito apropriado. É responsabilidade do participante garantir que todo o material utilizado esteja de acordo com as normas de propriedade intelectual.
 
+4. **Baixa qualidade do currículo**: Caso a página receba menos que 40% dos pontos na avaliação técnica ela será eleminada
+
 **Dica**: Se for utilizar imagens, fontes ou outros recursos externos, opte por conteúdos de domínio público ou com licenças abertas, como [Creative Commons](https://pt.wikipedia.org/wiki/Creative_Commons).
 
 **🔍 Fiscalização**: A organização reserva-se o direito de revisar todas as submissões e remover qualquer página que viole estas diretrizes, sem aviso prévio.
@@ -100,11 +104,12 @@ Para garantir um ambiente respeitoso e justo para todos os participantes, qualqu
 
 🏆 **Os 8 primeiros colocados recebem certificado de destaque.**  
 
-🎖️ **Hall da Fama**: as páginas vencedoras ficarão em destaque no site do curso, [similar a este](https://prof-hasan.github.io/cefet-front-end-extensao/#tps), por um tempo proporcional à colocação:  
+🎖️ **Hall da Fama**: as páginas finalistas ficarão em destaque no site do curso, [similar a este](https://prof-hasan.github.io/cefet-front-end-extensao/#tps), por um tempo proporcional à colocação:  
 
 - 🥇 **1º e 2º lugares** → 2 anos  
 - 🥈 **3º e 4º lugares** → 1 ano  
 - 🥉 **5º a 8º lugares** → 3 meses  
+
 
 ✨ **Prêmio especial para o 1º lugar:**  
 - **4 horas de mentoria individualizada** realizada pelo prof. Daniel Hasan em um dos seguintes temas:  
